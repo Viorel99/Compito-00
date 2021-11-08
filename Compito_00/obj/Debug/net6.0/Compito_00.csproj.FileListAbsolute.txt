@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\Seminar_03 C#\Compito_00\bin\Debug\net6.0\Compito_00.exe
+C:\Users\Dell\Desktop\Seminar_03 C#\Compito_00\bin\Debug\net6.0\Compito_00.deps.json
+C:\Users\Dell\Desktop\Seminar_03 C#\Compito_00\bin\Debug\net6.0\Compito_00.runtimeconfig.json
+C:\Users\Dell\Desktop\Seminar_03 C#\Compito_00\bin\Debug\net6.0\Compito_00.dll
+C:\Users\Dell\Desktop\Seminar_03 C#\Compito_00\bin\Debug\net6.0\ref\Compito_00.dll
+C:\Users\Dell\Desktop\Seminar_03 C#\Compito_00\bin\Debug\net6.0\Compito_00.pdb
+C:\Users\Dell\Desktop\Seminar_03 C#\Compito_00\obj\Debug\net6.0\Compito_00.GlobalUsings.g.cs
+C:\Users\Dell\Desktop\Seminar_03 C#\Compito_00\obj\Debug\net6.0\Compito_00.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Seminar_03 C#\Compito_00\obj\Debug\net6.0\Compito_00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Seminar_03 C#\Compito_00\obj\Debug\net6.0\Compito_00.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Seminar_03 C#\Compito_00\obj\Debug\net6.0\Compito_00.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Seminar_03 C#\Compito_00\obj\Debug\net6.0\Compito_00.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Seminar_03 C#\Compito_00\obj\Debug\net6.0\Compito_00.dll
+C:\Users\Dell\Desktop\Seminar_03 C#\Compito_00\obj\Debug\net6.0\ref\Compito_00.dll
+C:\Users\Dell\Desktop\Seminar_03 C#\Compito_00\obj\Debug\net6.0\Compito_00.pdb
+C:\Users\Dell\Desktop\Seminar_03 C#\Compito_00\obj\Debug\net6.0\Compito_00.genruntimeconfig.cache
